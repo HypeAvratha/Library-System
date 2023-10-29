@@ -11,11 +11,7 @@ Library Management System using Java and MySQL
  https://bikashtudu.github.io/DBISProject/
 
 # Minor Project
-Course: CS 257
-
-# Developed By
-- Bikash Kumar Tudu [tudu.bikash@gmail.com]
-- Piyush Kalkute
+Course: Data Communications
 
 # Environment and Requirement
 - Programming Language: JAVA with  Swings
