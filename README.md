@@ -19,11 +19,10 @@ Course: Data Communications
 - /MySQL Connector: Contains JDBC/MySQL JConnnector
 
 # Instructions
-1) Clone the Project using link https://github.com/EncoSier/DBISProject.git or Download the zip
+1) Clone the Project or Download the zip
 
 2) Importing Java Project in NetBeans
 - Clone the project in the NetBeans 8.1
-- NetBeans->Team->Git->Clone and copy-paste the https://github.com/EncoSier/DBISProject.git link
 
 3) Importing Database(Schema+Data)
 - Import the Database in the MySQL database using MySQL WorkBench(Version is mentioned above)
@@ -35,5 +34,3 @@ Course: Data Communications
 5) Database setting can be changed
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
-
-**NOTE: if any error, check [closed issues](https://github.com/bikashtudu/DBISProject/issues?q=is%3Aissue+is%3Aclosed) too.**
